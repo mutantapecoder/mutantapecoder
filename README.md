@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mutantapecoder
-- 🌱 I’m currently learning javascript, nodeJS, react and solidity
+- 🌱 tinkering with javascript, nodeJS, react and solidity. always learning. forever curious.
 
 <!---
 mutantapecoder/mutantapecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
